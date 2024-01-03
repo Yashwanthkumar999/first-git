@@ -14,7 +14,7 @@ public class info {
         System.out.println("enter your lucky number");
         x=enter.nextInt();
         System.out.println("HI"+" "+name);
-        System.out.println("based on your lucky number:"+"#"+x+" "+"YOU ARE COOL!");
+        System.out.println("based on your lucky number:"+"#"+x+" "+"YOU ARE AWESOME!");
     }
 }
 
